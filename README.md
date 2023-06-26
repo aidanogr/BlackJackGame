@@ -1,5 +1,5 @@
 # Portfolio
- Portfolio with all finished products
+ Portfolio with all finished products.
  Directions to all projects are located bellow
 
 # BlackJack
